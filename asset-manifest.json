@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/skyw4/preentrega1-react-nicolasrodriguez/static/css/main.605338ec.css",
+    "main.js": "/skyw4/preentrega1-react-nicolasrodriguez/static/js/main.a00a6f0b.js",
+    "index.html": "/skyw4/preentrega1-react-nicolasrodriguez/index.html",
+    "main.605338ec.css.map": "/skyw4/preentrega1-react-nicolasrodriguez/static/css/main.605338ec.css.map",
+    "main.a00a6f0b.js.map": "/skyw4/preentrega1-react-nicolasrodriguez/static/js/main.a00a6f0b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.605338ec.css",
+    "static/js/main.a00a6f0b.js"
+  ]
+}
